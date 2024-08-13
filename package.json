@@ -1,9 +1,10 @@
 {
   "name": "llm-integrator-tempcheck",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
   },
   "keywords": [],
   "author": "",
@@ -17,6 +18,13 @@
     "typescript": "^5.5.4"
   },
   "dependencies": {
-    "axios": "^1.7.3"
+    "@anthropic-ai/sdk": "^0.25.2",
+    "@google/generative-ai": "^0.16.0",
+    "@mistralai/mistralai": "^1.0.2",
+    "axios": "^1.7.3",
+    "fs": "^0.0.1-security",
+    "genai": "^0.0.18",
+    "openai": "^4.55.4",
+    "path": "^0.12.7"
   }
 }

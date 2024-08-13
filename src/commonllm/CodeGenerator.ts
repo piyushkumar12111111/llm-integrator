@@ -99,6 +99,31 @@ export abstract class CodeGenerator {
         return content;
       }
 
+    // async generateText(prompt: string): Promise<string> {
+    //     const fullPrompt = `
+    //       Please generate a detailed and relevant text-based response based on the following prompt:\n\n
+    //       ${prompt}\n\n
+    //     `;
+      
+    //     try {
+
+    //       const response = await this.getModelResponse(fullPrompt);
+          
+
+    //       const content = this.parseResponse(response);
+          
+
+    //       this.logText(prompt, content);
+          
+
+    //       return content;
+    //     } catch (error) {
+    //       console.error('Error generating text:', error);
+    //       throw error;
+    //     }
+    //   }
+      
+
     abstract getModelResponse(fullPrompt: string): any;
 
     private validateImports(code: string): void {
@@ -143,12 +168,17 @@ export abstract class CodeGenerator {
     }
 
     private parseResponse(response: any): string {
-        if ('text' in response) {
-            return response.text;
-        } else if ('choices' in response) {
-            return response.choices[0].message.content.trim();
-        } else {
-            throw new Error("Unexpected response format.");
+        if (typeof response === 'string') {
+            return response;
+        } else if (response && typeof response === 'object') {
+            if ('text' in response) {
+                return response.text;
+            } else if ('choices' in response && Array.isArray(response.choices)) {
+                return response.choices[0].message?.content?.trim() || '';
+            } else if ('message' in response) {
+                return response.message?.content?.trim() || '';
+            }
         }
+        throw new Error("Unexpected response format.");
     }
 }
