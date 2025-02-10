@@ -1,4 +1,4 @@
-# <div align="center">🌟 Welcome to My Tech Universe 🌟</div>
+# <div align="center">👋 Hello World, I'm Piyush Kumar</div>
 
 <div align="center">
   
@@ -12,9 +12,20 @@
   </a>
 </div>
 
-<br/>
+## 🤖 Interactive AI Chat - Ask Me Anything!
 
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<div align="center">
+  <img src="https://img.shields.io/badge/powered%20by-Gemini%20AI-blue?style=for-the-badge&logo=google&logoColor=white" alt="Powered by Gemini AI"/>
+</div>
+
+<ResumeChat />
+
+> 💡 Feel free to ask me about:
+> - My experience and internships
+> - Technical skills and projects
+> - Education and achievements
+> - Tech stack and tools
+> - My journey in software development
 
 ## 💫 About Me
 ```typescript
@@ -88,10 +99,6 @@ const piyush = {
 ## 📈 Contribution Graph
 [![Piyush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=piyushkumar12111111&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkumar12111111&theme=tokyonight&hide_border=true&layout=compact"/>
-</div>
-
 ## 🎯 Current Focus
 ```mermaid
 mindmap
@@ -116,11 +123,11 @@ mindmap
 
 ## 🎨 Featured Projects
 <div align="center">
-  <a href="https://github.com/piyushkumar12111111/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushkumar12111111&repo=project1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/piyushkumar12111111/DiagramGpt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushkumar12111111&repo=DiagramGpt&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/piyushkumar12111111/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushkumar12111111&repo=project2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/piyushkumar12111111/FullStack-Ebike-Booking-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushkumar12111111&repo=FullStack-Ebike-Booking-App&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
