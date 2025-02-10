@@ -1,1 +1,139 @@
-llm
+# <div align="center">🌟 Welcome to My Tech Universe 🌟</div>
+
+<div align="center">
+  
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=Piyush%20Kumar&fontSize=70&fontAlignY=35&desc=Flutter%20Developer%20|%20Mobile%20App%20Developer%20|%20Tech%20Enthusiast&descAlignY=55&animation=twinkling)](https://github.com/piyushkumar12111111)
+
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F5&center=true&vCenter=true&random=false&width=635&lines=Mobile+App+Developer;Flutter+Enthusiast;Tech+Innovation+Passionate;Full+Stack+Development;Always+Learning+New+Technologies" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+
+## 💫 About Me
+```typescript
+const piyush = {
+    pronouns: "he" | "him",
+    code: ["Dart", "Python", "JavaScript", "Java", "C++"],
+    askMeAbout: ["app dev", "mobile dev", "flutter", "tech"],
+    technologies: {
+        mobileApp: ["Flutter", "Android Native", "React Native"],
+        backEnd: {
+            js: ["Node", "NestJS"],
+            python: ["Flask", "FastAPI"]
+        },
+        databases: ["Firebase", "Redis", "MongoDB"],
+        cloud: ["Google Cloud Platform", "Firebase"]
+    },
+    currentFocus: "Building Scalable Mobile Applications",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+## 🌐 Let's Connect
+<p align="left">
+<a href="https://www.linkedin.com/in/piyush-kumar-806903228/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:piyushkumaraitpune@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/vaibhavsngh0"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://instagram.com/vvaibhav_s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Mobile Development 📱
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Programming Languages 💻
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend & APIs 🔧
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+### Cloud & Database ☁️
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkumar12111111&theme=tokyonight&hide_border=true&ring=FFB19A&fire=FF9C71&currStreakNum=9fdfff&currStreakLabel=9fdfff" alt="streak stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=piyushkumar12111111&show_icons=true&theme=tokyonight&hide_border=true&icon_color=FFB19A&title_color=FF9C71" alt="github stats"/>
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=piyushkumar12111111&theme=nord&column=7&margin-w=15&margin-h=15&no-frame=true"/>
+</div>
+
+## 📈 Contribution Graph
+[![Piyush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=piyushkumar12111111&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkumar12111111&theme=tokyonight&hide_border=true&layout=compact"/>
+</div>
+
+## 🎯 Current Focus
+```mermaid
+mindmap
+  root((Skills))
+    Mobile Development
+      Flutter Advanced Patterns
+      Native Android
+      Cross-Platform Solutions
+    Backend
+      FastAPI
+      NestJS
+      System Design
+    Cloud
+      GCP
+      Firebase
+      Scalability
+    Architecture
+      Clean Code
+      SOLID Principles
+      Design Patterns
+```
+
+## 🎨 Featured Projects
+<div align="center">
+  <a href="https://github.com/piyushkumar12111111/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushkumar12111111&repo=project1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/piyushkumar12111111/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushkumar12111111&repo=project2&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+## 💰 Support My Work
+<p align="left">
+<a href="https://www.buymeacoffee.com/z3r00"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+<a href="https://paypal.me/Vaibhav307"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=piyushkumar12111111&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</p>
